@@ -25,7 +25,8 @@
 //git clone - clone repo into a new directory
 //git-scm.com/download/win for installing
 
-
+//if you want to commit you press git commit then you press i and uncomment initial save
+//then you press :wq
 //You can initialize your git in your vscode terminal. git innit
 //then add your username and password
 // git config --global user.name "EmmanuelAdeoluwa"
