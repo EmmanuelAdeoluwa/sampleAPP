@@ -37,4 +37,13 @@
 //branches to create a branch command which is where you can work and do your thjng without it affecting
 //the main repo
 //to create a branch - git branch <name>
+//to switch to another place or branch - git checkout login
 
+//The README.md file in a GitHub repository is used to provide an overview and instructions on how to use the project. It is the first file that visitors to your repository will see, so it's important to make sure it's informative and well-written.
+echo "# sampleAPP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/EmmanuelAdeoluwa/sampleAPP.git
+git push -u origin main
