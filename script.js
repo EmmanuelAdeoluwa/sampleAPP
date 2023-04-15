@@ -31,3 +31,10 @@
 //then add your username and password
 // git config --global user.name "EmmanuelAdeoluwa"
 // git config --global user.email "emmanueladeoluwa16@gmail.com"
+//git.commit -m "any name"
+//if you want to ignore a file you use the .ignore folder
+
+//branches to create a branch command which is where you can work and do your thjng without it affecting
+//the main repo
+//to create a branch - git branch <name>
+
